@@ -24,10 +24,4 @@ def plot_functions(points, function, variables, amount_of_points, domain):
         
     plt.show()
 
-    # x_axis = np.linspace(-10, 10, 500)
-    # axs[0][0].plot(x_axis, x_axis**2)
-    # axs[0][1].plot(x_axis, x_axis)
-    # axs[1][0].plot(x_axis, x_axis*(-1))
-    # axs[1][1].plot(x_axis, (x_axis-5)**3)
-
     
